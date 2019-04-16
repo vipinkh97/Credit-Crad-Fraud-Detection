@@ -1,5 +1,5 @@
 # Credit-Crad-Fraud-Detection
-To detect fraudulent transactions using ML techniques.
+To detect fraudulent transactions of credit cards using ML techniques.
 The data set has 31 features, 28 of which have been anonymized and are labeled from V1 through V28.
 The data set contains 284,807 transactions. Most of the transactions are non-fraudulent.
 About  99.83% of the transactions in this data set are not fraudulent while only 0.17% are fraudulent.
